@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avernix Technologies</h1>
+<h1 align="center">Hi 👋, We're Avernix Technologies</h1>
 <h3 align="center">Creating your next big idea</h3>
 
 - 🔭We're currently working on **our homepage facelift**
