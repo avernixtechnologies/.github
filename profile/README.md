@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **we are all remote**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/company/avernixtechnologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/avernixtechnologies" height="30" width="40" /></a>
 <a href="https://fb.com/avernixtechnologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avernixtechnologies" height="30" width="40" /></a>
