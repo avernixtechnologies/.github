@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We're Avernix Technologies</h1>
 <h3 align="center">Creating your next big idea</h3>
 
-- 🔭We're currently working on **our homepage facelift**
+- 🔭We're currently working on **a super secret client project**
 
 - 👨‍💻 All of our public projects are available at [https://github.com/avernixtechnologies](https://github.com/avernixtechnologies)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach us **sales@avernix.com**
 
-- ⚡ Fun fact **we are all remote**
+- ⚡ Fun fact **we are fully remote**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
