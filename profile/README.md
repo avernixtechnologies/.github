@@ -3,7 +3,7 @@
 
 - 🔭We're currently working on **a super secret client project**
 
-- 👨‍💻 All of our public projects are available at [https://github.com/avernixtechnologies](https://github.com/avernixtechnologies)
+- 👨‍💻 All of our public projects are available at [https://github.com/orgs/avernixtechnologies/repositories](https://github.com/orgs/avernixtechnologies/repositories)
 
 - 💬 Ask us about **Our Services**
 
